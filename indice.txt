@@ -3,3 +3,4 @@ Capitulo 2 Fluk¡jo de trabajo
 capitulo3 Repositorisa
 Caoitulo 4 cuso de github
 Capitulo5.Epilogo
+CAPITULO6 COMO COGER SUEÑO CON GIT
